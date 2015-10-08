@@ -185,6 +185,14 @@ Real-time team collaboration with integrated task management, video conferencing
 
 Visit [Glip](https://glip.com)
 
+##Gugamarket
+
+Fullstack REST API with gigya.com support for social login. Its is a opensource GPLV3 license product. 
+
+[![](/images/apps/screenshots/gugamarket.png)](https://www.gugamarket.com)
+
+Visit [Gugamarket](https://www.gugamarket.com)
+
 ##Add your app or site
 
 [Edit the the Markdown file](https://github.com/strongloop/expressjs.com/blob/menu/en/resources/applications.md),
